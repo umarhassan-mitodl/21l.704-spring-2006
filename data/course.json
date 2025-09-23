@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "3efde232-06cb-2497-ab25-d58c022bc952",
+  "instructors": {
+    "content": [
+      "74516445-898e-1e75-b25c-4fabca94fe23"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f0a8d9dc-3081-f249-d8ea-f6544f6e97b5",
+    "website": "21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006"
+  },
+  "course_title": "Studies in Poetry: From the Sonneteers to the Metaphysicals",
+  "course_description": "This course introduces students to some of the most important practitioners of poetry in sixteenth- and seventeenth-century England, locating them in their historical and social contexts. We will be emphasizing love poetry or amatory verse, by combining close reading of selected poems with an investigation of the contexts of English verse.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.704",
+  "course_image_thumbnail": {
+    "content": "71cd371d-bb22-d12d-3841-d67ec7119580",
+    "website": "21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Presentation Assignments"
+  ],
+  "site_uid": "eed99554-5239-4810-8499-078cf4b9f504",
+  "site_short_id": "21l.704-spring-2006",
+  "site_url_path": "courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006",
+  "title": "Course Metadata"
+}
