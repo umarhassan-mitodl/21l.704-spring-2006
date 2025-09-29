@@ -4,6 +4,8 @@ description: ''
 file: /courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/67c1b6a7a6f44d52a818ccb899a95b06_poetry.jpg
 file_size: 41213
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

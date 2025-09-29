@@ -3,6 +3,8 @@ content_type: page
 description: This readings section provides information on required texts for the
   course.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -121,9 +123,9 @@ Spenser's *Amoretti* (Selections).
 Shakespeare's Sonnets (Selections)
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "d3b8f932-eed2-44e0-bd63-111b1cd0a057" "Shakespeare's Sonnets at The Literature Network" %}}
+[Shakespeare's Sonnets at The Literature Network](http://www.online-literature.com/shakespeare/)
 
-{{% resource_link "f99ada32-0be6-410e-970b-63104c388a9b" "Shakespeare's Sonnets Gutenberg E-text" %}}
+[Shakespeare's Sonnets Gutenberg E-text](http://www.gutenberg.org/etext/1041)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -145,7 +147,7 @@ Additional Reading: Marotti, Arthur. *John Donne, Coterie Poet*. Madison, WI: Un
 Money, Colonialism and Gender
 {{< tdclose >}}{{< tdopen >}}
 
-Donne's "{{% resource_link "39214388-0f40-4a9a-968f-fc067ea9ac73" "Elegy XI: The Bracelet" %}}," "{{% resource_link "e27f40e8-8847-4745-a052-8ec819b67436" "Elegy XVIII: Loves Progress" %}} ," "{{% resource_link "d132e9cf-8eb0-498b-8d67-b0c12c936ffa" "Elegy XX: To His Mistress Going to Bed" %}}," "{{% resource_link "02f4c5d9-a114-413a-8342-bb1ca9fe1c33" "Sermon to the Virginia Company" %}}," and "{{% resource_link "c90fde24-f08d-4241-b099-4835fc48ef83" "A Valediction Forbidding Mourning" %}}"; and Andrew Marvell's "{{% resource_link "ab4841e7-6560-4c6f-b6bd-e0eed81cde06" "To his Coy Mistress" %}}," and "{{% resource_link "92b38e28-30ef-4c32-93ec-8aeac2d1799c" "Bermudas" %}}."
+Donne's "[Elegy XI: The Bracelet](http://www.online-literature.com/donne/431/)," "[Elegy XVIII: Loves Progress](http://www.online-literature.com/donne/438/) ," "[Elegy XX: To His Mistress Going to Bed](http://www.online-literature.com/donne/440/)," "[Sermon to the Virginia Company](http://contentdm.lib.byu.edu/cdm/compoundobject/collection/JohnDonne/id/3178/rec/1)," and "[A Valediction Forbidding Mourning](http://www.online-literature.com/donne/371/)"; and Andrew Marvell's "[To his Coy Mistress](http://rpo.library.utoronto.ca/poems/his-coy-mistress)," and "[Bermudas](http://rpo.library.utoronto.ca/poems/bermudas)."
 
 Additional Reading: Raman, Shankar. "Can't Buy me Love: Money, Gender, and Colonialism in Donne's Erotic Verse." *Criticism* 43, no. 2 (Spring 2002): 135-168.
 
@@ -154,19 +156,19 @@ Additional Reading: Raman, Shankar. "Can't Buy me Love: Money, Gender, and Colon
 {{< tdclose >}}{{< tdopen >}}
 Cartography and Poetry: Maps and Bodies
 {{< tdclose >}}{{< tdopen >}}
-Extracts from Donne's {{% resource_link "0c24c894-aced-4142-81c2-3eeed9c5fbf3" "*Devotions*" %}}, and "{{% resource_link "78d29eee-05f1-4fa7-b650-c82d60d7dae7" "Hymn to God, My God, In My Sickness" %}}."
+Extracts from Donne's [*Devotions*](http://www.ccel.org/ccel/donne/devotions.toc.html), and "[Hymn to God, My God, In My Sickness](http://www.luminarium.org/sevenlit/donne/sickness.php)."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
 Renaissance Neo-Platonism
 {{< tdclose >}}{{< tdopen >}}
-Donne and Marvell: Donne's "{{% resource_link "e2d669d1-c146-420f-99d2-f2985ea36061" "Air and Angels" %}}," and "{{% resource_link "09a5c1d7-dd99-4ca0-a131-5ea3fae89ccf" "The Ecstasy" %}}"; Andrew Marvell's "{{% resource_link "a47c6c35-6992-4ad5-9f24-96abe1cca37b" "Dialogue Between the Soul and the Body" %}}," "{{% resource_link "f974ef0a-1b74-4475-9623-99845c5a5e70" "On a Drop of Dew" %}}," and "{{% resource_link "f2773b9f-d6b3-473e-892d-0ecfb905d14f" "The Garden" %}}."
+Donne and Marvell: Donne's "[Air and Angels](http://www.online-literature.com/donne/351/)," and "[The Ecstasy](http://www.online-literature.com/donne/372/)"; Andrew Marvell's "[Dialogue Between the Soul and the Body](http://rpo.library.utoronto.ca/poems/dialogue-between-soul-and-body)," "[On a Drop of Dew](http://www.luminarium.org/sevenlit/marvell/dewdrop.htm)," and "[The Garden](http://rpo.library.utoronto.ca/poems/garden)."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
 Andrew Marvell: Pastoral Poems
 {{< tdclose >}}{{< tdopen >}}
-Marvell's Mower poems: "{{% resource_link "ef65c888-b81e-45f3-a424-ec62d46c8f03" "The Mower, Against Gardens" %}}," "{{% resource_link "cc7f59ce-d164-4d8e-8564-b7f64e902990" "*Damon* The Mower" %}}," "{{% resource_link "a7ceefea-1987-419a-8cdc-f4bcc8b4679b" "The Mower to the Glow-Worms" %}}," "{{% resource_link "5ddd0ff3-3db7-4243-b50a-d7bb2f7f55a5" "The Mower's Song" %}}."
+Marvell's Mower poems: "[The Mower, Against Gardens](https://www.poetryfoundation.org/poems-and-poets/poems/detail/48333)," "[*Damon* The Mower](http://www.luminarium.org/sevenlit/marvell/damonmow.htm)," "[The Mower to the Glow-Worms](http://rpo.library.utoronto.ca/poems/mower-glow-worms)," "[The Mower's Song](http://rpo.library.utoronto.ca/poems/mowers-song)."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Poetry and Religion**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -174,13 +176,13 @@ Marvell's Mower poems: "{{% resource_link "ef65c888-b81e-45f3-a424-ec62d46c8f03"
 {{< tdclose >}}{{< tdopen >}}
 John Donne: New Science and Doubt
 {{< tdclose >}}{{< tdopen >}}
-Donne: "{{% resource_link "3e30312f-dc78-47ff-a9d0-740b31c72a9e" "The Anniversary" %}}," and "{{% resource_link "78a0e570-1b02-4a2c-ba46-ccee98c13286" "A Nocturnal Upon St. Lucy's Day" %}}."
+Donne: "[The Anniversary](http://www.online-literature.com/donne/354/)," and "[A Nocturnal Upon St. Lucy's Day](http://www.online-literature.com/donne/367/)."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
 John Donne (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Donne's "{{% resource_link "a16f1431-0e18-4881-8c5f-44acba0f13f1" "Satire 3" %}}," and Selected {{% resource_link "c0e875b4-c05c-4372-bc52-b84ead6c2296" "Holy Sonnets" %}}.
+Donne's "[Satire 3](http://www.online-literature.com/donne/418/)," and Selected [Holy Sonnets](http://www.luminarium.org/sevenlit/donne/donnebib.htm).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
@@ -200,13 +202,13 @@ George Herbert (Selections); Mary Wroth (Selected sonnets); and Amelia Lanyer's 
 {{< tdclose >}}{{< tdopen >}}
 Amelia Lanyer, Ben Johnson, Andrew Marvell
 {{< tdclose >}}{{< tdopen >}}
-Amelia Lanyer's "To Cookham"; Ben Jonson's "To Penshurst"; Andrew Marvell's "{{% resource_link "a5f92fc6-f7aa-4e65-8013-b442cb9732ce" "Upon Appleton House, to my Lord Fairfax" %}}."
+Amelia Lanyer's "To Cookham"; Ben Jonson's "To Penshurst"; Andrew Marvell's "[Upon Appleton House, to my Lord Fairfax](http://rpo.library.utoronto.ca/poems/upon-appleton-house-my-lord-fairfax)."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
 The Civil War
 {{< tdclose >}}{{< tdopen >}}
-"{{% resource_link "9ad5204b-436f-418f-b0ee-6871e9cc6fb8" "Upon Appleton House, to my Lord Fairfax" %}}," and Marvell's "{{% resource_link "092a5355-b6e2-4e57-9c83-aa8933b5d2de" "Horatian Ode Upon Cromwell's Return From Ireland" %}}."
+"[Upon Appleton House, to my Lord Fairfax](https://rpo.library.utoronto.ca/poems/upon-appleton-house-my-lord-fairfax)," and Marvell's "[Horatian Ode Upon Cromwell's Return From Ireland](http://www.humanitiesweb.org/human.php?s=l&p=c&a=p&ID=1798)."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
@@ -218,7 +220,7 @@ Student Meetings to Discuss Final Essay Draft
 {{< tdclose >}}{{< tdopen >}}
 The Civil War (cont.)
 {{< tdclose >}}{{< tdopen >}}
-"{{% resource_link "9ad5204b-436f-418f-b0ee-6871e9cc6fb8" "Upon Appleton House, to my Lord Fairfax" %}}," and "{{% resource_link "092a5355-b6e2-4e57-9c83-aa8933b5d2de" "Horatian Ode Upon Cromwell's Return From Ireland" %}}."
+"[Upon Appleton House, to my Lord Fairfax](https://rpo.library.utoronto.ca/poems/upon-appleton-house-my-lord-fairfax)," and "[Horatian Ode Upon Cromwell's Return From Ireland](http://www.humanitiesweb.org/human.php?s=l&p=c&a=p&ID=1798)."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
 {{< tdclose >}}{{< tdopen >}}
