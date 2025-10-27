@@ -3,8 +3,6 @@ content_type: page
 description: This readings section provides information on required texts for the
   course.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -123,9 +121,9 @@ Spenser's *Amoretti* (Selections).
 Shakespeare's Sonnets (Selections)
 {{< tdclose >}}{{< tdopen >}}
 
-[Shakespeare's Sonnets at The Literature Network](http://www.online-literature.com/shakespeare/)
+{{% resource_link "40dc30e8-192e-480f-b857-b7652b3541a2" "Shakespeare's Sonnets at The Literature Network" %}}
 
-[Shakespeare's Sonnets Gutenberg E-text](http://www.gutenberg.org/etext/1041)
+{{% resource_link "f48eea18-df24-40e9-8d28-6a5355ebf0e7" "Shakespeare's Sonnets Gutenberg E-text" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -147,7 +145,7 @@ Additional Reading: Marotti, Arthur. *John Donne, Coterie Poet*. Madison, WI: Un
 Money, Colonialism and Gender
 {{< tdclose >}}{{< tdopen >}}
 
-Donne's "[Elegy XI: The Bracelet](http://www.online-literature.com/donne/431/)," "[Elegy XVIII: Loves Progress](http://www.online-literature.com/donne/438/) ," "[Elegy XX: To His Mistress Going to Bed](http://www.online-literature.com/donne/440/)," "[Sermon to the Virginia Company](http://contentdm.lib.byu.edu/cdm/compoundobject/collection/JohnDonne/id/3178/rec/1)," and "[A Valediction Forbidding Mourning](http://www.online-literature.com/donne/371/)"; and Andrew Marvell's "[To his Coy Mistress](http://rpo.library.utoronto.ca/poems/his-coy-mistress)," and "[Bermudas](http://rpo.library.utoronto.ca/poems/bermudas)."
+Donne's "{{% resource_link "83694295-a002-4476-8bef-63a1cf340831" "Elegy XI: The Bracelet" %}}," "{{% resource_link "ae200648-a8b4-4b27-af1d-f3fcdab7bb95" "Elegy XVIII: Loves Progress" %}} ," "{{% resource_link "b097f250-fc41-495f-95a8-f7f82858f04d" "Elegy XX: To His Mistress Going to Bed" %}}," "{{% resource_link "60f4d1ab-b0d5-4f58-b418-8ba58d9cd754" "Sermon to the Virginia Company" %}}," and "{{% resource_link "6c8930d4-0c59-444c-88eb-82bec44c84e8" "A Valediction Forbidding Mourning" %}}"; and Andrew Marvell's "{{% resource_link "23cd549f-0d31-4943-a3b2-ea6e590ddb8c" "To his Coy Mistress" %}}," and "{{% resource_link "6b873d3f-b14a-4363-98e0-8d02a38dc033" "Bermudas" %}}."
 
 Additional Reading: Raman, Shankar. "Can't Buy me Love: Money, Gender, and Colonialism in Donne's Erotic Verse." *Criticism* 43, no. 2 (Spring 2002): 135-168.
 
@@ -156,19 +154,19 @@ Additional Reading: Raman, Shankar. "Can't Buy me Love: Money, Gender, and Colon
 {{< tdclose >}}{{< tdopen >}}
 Cartography and Poetry: Maps and Bodies
 {{< tdclose >}}{{< tdopen >}}
-Extracts from Donne's [*Devotions*](http://www.ccel.org/ccel/donne/devotions.toc.html), and "[Hymn to God, My God, In My Sickness](http://www.luminarium.org/sevenlit/donne/sickness.php)."
+Extracts from Donne's {{% resource_link "790e6ba5-7647-406a-86c6-1d7faf846d74" "*Devotions*" %}}, and "{{% resource_link "0f327e9b-a21c-4c3f-b55d-8631e5796d45" "Hymn to God, My God, In My Sickness" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
 Renaissance Neo-Platonism
 {{< tdclose >}}{{< tdopen >}}
-Donne and Marvell: Donne's "[Air and Angels](http://www.online-literature.com/donne/351/)," and "[The Ecstasy](http://www.online-literature.com/donne/372/)"; Andrew Marvell's "[Dialogue Between the Soul and the Body](http://rpo.library.utoronto.ca/poems/dialogue-between-soul-and-body)," "[On a Drop of Dew](http://www.luminarium.org/sevenlit/marvell/dewdrop.htm)," and "[The Garden](http://rpo.library.utoronto.ca/poems/garden)."
+Donne and Marvell: Donne's "{{% resource_link "17ff7cb2-c644-41bf-bd58-126326431637" "Air and Angels" %}}," and "{{% resource_link "b60d7903-3cc3-446c-96c3-fb66b188e3dc" "The Ecstasy" %}}"; Andrew Marvell's "{{% resource_link "322aac23-7d11-4077-9415-904d8996cc4c" "Dialogue Between the Soul and the Body" %}}," "{{% resource_link "660616f6-a05c-4884-9c2f-2de16781b51e" "On a Drop of Dew" %}}," and "{{% resource_link "bb41ac04-fc21-4244-b856-522154b903d7" "The Garden" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
 Andrew Marvell: Pastoral Poems
 {{< tdclose >}}{{< tdopen >}}
-Marvell's Mower poems: "[The Mower, Against Gardens](https://www.poetryfoundation.org/poems-and-poets/poems/detail/48333)," "[*Damon* The Mower](http://www.luminarium.org/sevenlit/marvell/damonmow.htm)," "[The Mower to the Glow-Worms](http://rpo.library.utoronto.ca/poems/mower-glow-worms)," "[The Mower's Song](http://rpo.library.utoronto.ca/poems/mowers-song)."
+Marvell's Mower poems: "{{% resource_link "945e0b30-12c7-4c67-80a7-8677ea6c5a9a" "The Mower, Against Gardens" %}}," "{{% resource_link "7cb102a0-86db-4aca-9287-acf45675fef0" "*Damon* The Mower" %}}," "{{% resource_link "1649a040-d267-4eba-91db-2dafa4350715" "The Mower to the Glow-Worms" %}}," "{{% resource_link "7e3477ec-6d2d-4394-8e5e-97e44bdcd5f9" "The Mower's Song" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Poetry and Religion**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -176,13 +174,13 @@ Marvell's Mower poems: "[The Mower, Against Gardens](https://www.poetryfoundatio
 {{< tdclose >}}{{< tdopen >}}
 John Donne: New Science and Doubt
 {{< tdclose >}}{{< tdopen >}}
-Donne: "[The Anniversary](http://www.online-literature.com/donne/354/)," and "[A Nocturnal Upon St. Lucy's Day](http://www.online-literature.com/donne/367/)."
+Donne: "{{% resource_link "8187eb24-6985-47a3-a545-8189352b487e" "The Anniversary" %}}," and "{{% resource_link "b4a25cfe-c0cc-4154-83ed-e2cd0bd00a1d" "A Nocturnal Upon St. Lucy's Day" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
 John Donne (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Donne's "[Satire 3](http://www.online-literature.com/donne/418/)," and Selected [Holy Sonnets](http://www.luminarium.org/sevenlit/donne/donnebib.htm).
+Donne's "{{% resource_link "e4a54819-751f-44c3-886f-45983d246786" "Satire 3" %}}," and Selected {{% resource_link "6392445d-66fb-43b1-a537-9ac17a64e0b0" "Holy Sonnets" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
@@ -202,13 +200,13 @@ George Herbert (Selections); Mary Wroth (Selected sonnets); and Amelia Lanyer's 
 {{< tdclose >}}{{< tdopen >}}
 Amelia Lanyer, Ben Johnson, Andrew Marvell
 {{< tdclose >}}{{< tdopen >}}
-Amelia Lanyer's "To Cookham"; Ben Jonson's "To Penshurst"; Andrew Marvell's "[Upon Appleton House, to my Lord Fairfax](http://rpo.library.utoronto.ca/poems/upon-appleton-house-my-lord-fairfax)."
+Amelia Lanyer's "To Cookham"; Ben Jonson's "To Penshurst"; Andrew Marvell's "{{% resource_link "c66adf0c-5d87-4b42-a618-dda644e75a2d" "Upon Appleton House, to my Lord Fairfax" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
 The Civil War
 {{< tdclose >}}{{< tdopen >}}
-"[Upon Appleton House, to my Lord Fairfax](https://rpo.library.utoronto.ca/poems/upon-appleton-house-my-lord-fairfax)," and Marvell's "[Horatian Ode Upon Cromwell's Return From Ireland](http://www.humanitiesweb.org/human.php?s=l&p=c&a=p&ID=1798)."
+"{{% resource_link "b9e335f9-c076-4a93-ac77-65598b74f585" "Upon Appleton House, to my Lord Fairfax" %}}," and Marvell's "{{% resource_link "2fff19f4-c5ae-4e8e-a2c3-72f92cdb8716" "Horatian Ode Upon Cromwell's Return From Ireland" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
@@ -220,7 +218,7 @@ Student Meetings to Discuss Final Essay Draft
 {{< tdclose >}}{{< tdopen >}}
 The Civil War (cont.)
 {{< tdclose >}}{{< tdopen >}}
-"[Upon Appleton House, to my Lord Fairfax](https://rpo.library.utoronto.ca/poems/upon-appleton-house-my-lord-fairfax)," and "[Horatian Ode Upon Cromwell's Return From Ireland](http://www.humanitiesweb.org/human.php?s=l&p=c&a=p&ID=1798)."
+"{{% resource_link "b9e335f9-c076-4a93-ac77-65598b74f585" "Upon Appleton House, to my Lord Fairfax" %}}," and "{{% resource_link "2fff19f4-c5ae-4e8e-a2c3-72f92cdb8716" "Horatian Ode Upon Cromwell's Return From Ireland" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
 {{< tdclose >}}{{< tdopen >}}
